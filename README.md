@@ -87,12 +87,6 @@ Example FASTA header format:
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 🙋‍♂️ Author
 
 Developed by \[Aymen Trso]. Contributions and feedback are welcome!
