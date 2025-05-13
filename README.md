@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🧬 GenBank Gene Comparison and FASTA Extractor
 
 This Python script compares **genes across multiple GenBank files**, identifies shared genes among all species, and generates:
@@ -102,4 +99,3 @@ Developed by \[Aymen Trso]. Contributions and feedback are welcome!
 
 ```
 
----
